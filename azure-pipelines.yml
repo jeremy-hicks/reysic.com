@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: 'feafcb06-2b69-41e9-a9a3-6b453269bc68'
   
   # Web app name
-  webAppName: 'reysic.com'
+  webAppName: 'reysic'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
