@@ -1,8 +1,5 @@
 # reysic.com
 
-[![Build Status](https://dev.azure.com/reysic/reysic.com/_apis/build/status/jeremy-hicks.reysic.com?branchName=master)](https://dev.azure.com/reysic/reysic.com/_build/latest?definitionId=1&branchName=master)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cf1fa25740894ad19d7f635b423f0cfe)](https://www.codacy.com/manual/jeremy-hicks/reysic.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jeremy-hicks/reysic.com&amp;utm_campaign=Badge_Grade)
-
 Personal website deployed to Azure App Service
 
 ## Local Development
